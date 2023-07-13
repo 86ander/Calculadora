@@ -1,0 +1,17 @@
+C:\Users\ander\source\repos\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\ander\source\repos\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\ander\source\repos\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\ander\source\repos\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\ander\source\repos\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\ander\source\repos\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
